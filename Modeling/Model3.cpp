@@ -14,7 +14,7 @@ float** extmodel(float** init_model, int nr, int nc, int np);
 int main()
 {
 	int NX = 5000;		    
-	int NZ = 20;		  
+	int NZ = 200;		  
 	int NP = 100;		  
 	int sx = 2500 + NP;    
 	int sz = 0;
